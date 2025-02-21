@@ -45,7 +45,7 @@
   <br />
   <img src="./_docs/assets/carbon.png" />
 </p>
-...
+
 ## :rocket: Getting Started
 
 ### Prerequisites
@@ -64,7 +64,7 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/felipeAguiarCode/MegaApiDotnetCore.git
    cd MegaApiDotnetCore
 
-...
+
 ## API Endpoints
 
 <table align="center">
