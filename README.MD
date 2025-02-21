@@ -45,7 +45,26 @@
   <br />
   <img src="./_docs/assets/carbon.png" />
 </p>
+...
+## :rocket: Getting Started
 
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [.NET Core SDK 3.1](https://dotnet.microsoft.com/download/dotnet/3.1) installed on your machine.
+- A code editor such as [Visual Studio Code](https://code.visualstudio.com/) or [Visual Studio](https://visualstudio.microsoft.com/).
+- A SQL Server instance or a compatible database system.
+
+### Installation
+
+1. **Clone the Repository:**
+
+   ```sh
+   git clone https://github.com/felipeAguiarCode/MegaApiDotnetCore.git
+   cd MegaApiDotnetCore
+
+...
 ## API Endpoints
 
 <table align="center">
@@ -143,26 +162,7 @@ src
 │   │     ├── 📂 Migrations      [Migrations for database updates]
 │   ├── 📂 Repositories     [Repository pattern]
 ```
-...
-## :rocket: Getting Started
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- [.NET Core SDK 3.1](https://dotnet.microsoft.com/download/dotnet/3.1) installed on your machine.
-- A code editor such as [Visual Studio Code](https://code.visualstudio.com/) or [Visual Studio](https://visualstudio.microsoft.com/).
-- A SQL Server instance or a compatible database system.
-
-### Installation
-
-1. **Clone the Repository:**
-
-   ```sh
-   git clone https://github.com/felipeAguiarCode/MegaApiDotnetCore.git
-   cd MegaApiDotnetCore
-
-...
 ## License This software is licensed under the terms of the [MIT]
 
 ⌨️ FelipeAguiar -
